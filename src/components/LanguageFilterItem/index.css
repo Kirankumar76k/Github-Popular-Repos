@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.lan-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  margin-right: 16px;
+  margin-bottom: 16px;
+  padding: 16px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  outline: none;
+}
+.active-btn {
+  border: 1px solid #0284c7;
+  border-radius: 24px;
+
+  color: #0284c7;
+}

@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.item {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #f8f8ff;
+  border-radius: 24px;
+  height: 350px;
+  width: 250px;
+  margin-bottom: 24px;
+  margin: 15px;
+  padding: 24px;
+}
+
+.img-avatar {
+  height: 92px;
+}
+.little-container {
+  display: flex;
+  align-items: center;
+}
+.little-img {
+  height: 20px;
+  width: 20px;
+  margin-right: 6px;
+}
+.rep-name {
+  font-size: 16px;
+  color: #1e293b;
+}
